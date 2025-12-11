@@ -4,7 +4,7 @@ conecao = psycopg2.connect(
     host="localhost",
     database ="SERVER SGEV",
     user="postgres",
-    password="30122005"
+    password="1234"
 )
 
 cursor = conecao.cursor()
