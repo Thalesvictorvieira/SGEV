@@ -12,7 +12,7 @@ class App(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        # --- 1. Configuração da Janela Principal ---
+         #1. Configuração da Janela Principa
         self.title("Sistema de Armazém de Bebidas")
         self.geometry("1000x700")
 
